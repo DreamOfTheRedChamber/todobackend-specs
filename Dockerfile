@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Shijie <sjzhang1901@gmail.com>
+MAINTAINER Shijie
 
 # Prevent dpkg errors
 ENV TERM=xterm-256color
